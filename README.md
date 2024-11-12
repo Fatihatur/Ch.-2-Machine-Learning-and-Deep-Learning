@@ -2,7 +2,7 @@ Berikut adalah struktur teks yang telah diubah:
 
 ---
 
-# Bab 2: Pembelajaran Mesin dan Pembelajaran Mendalam
+# Bab 2: Machine Learning and Deep Learning
 
 ## Daftar Isi
 
