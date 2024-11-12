@@ -150,5 +150,5 @@ Dataset yang digunakan adalah *Credit Card Fraud 2023*, dengan variabel target k
 ## Petunjuk Menjalankan Kode
 
 1. Buka Google Colab.
-2. Unggah file `02_Kelompok_B_1.ipynb` hingga `02_Kelompok_B_4.ipynb`.
+2. Unggah file `02_Kelompok_E_1.ipynb` hingga `02_Kelompok_E_4.ipynb`.
 3. Jalankan setiap sel sesuai urutan dalam *notebook* dan ikuti instruksi yang disediakan.
